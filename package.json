@@ -1,12 +1,16 @@
 {
   "name": "chronic-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Chronic Disease Management System",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "chronic-care",
+    "healthcare",
+    "patient-management"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
